@@ -1,3 +1,7 @@
+/*Generate a report that displays the total trips, average fare per km, average fare per trip, and 
+the percentage contribution of each city's trips to the overall trips. This report will help in assessing trip volume, pricing efficiency, and each city’s contribution to the overall trip count*/
+
+
 select city_name,
 count(trip_id) as total_trips,
 round(sum(fare_amount)/sum(distance_travelled_km),2) as avg_fare_per_km,
