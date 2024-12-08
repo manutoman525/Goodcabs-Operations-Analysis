@@ -1,5 +1,7 @@
 /*Generate a report that displays the total trips, average fare per km, average fare per trip, and 
-the percentage contribution of each city's trips to the overall trips. This report will help in assessing trip volume, pricing efficiency, and each city’s contribution to the overall trip count*/
+the percentage contribution of each city's trips to the overall trips. This report will help in assessing trip volume, pricing efficiency, and each city’s contribution to the overall trip count
+
+set trips_db as default database */
 
 
 select city_name,
