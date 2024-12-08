@@ -4,7 +4,7 @@
 ## Domain: Transportation & Mobility
 ## Function: Operations
 
-A cab service company operating in tier-2 cities aims to evaluate its performance to meet ambitious growth and passenger satisfaction targets for 2024. 
+GOODCABS ,a cab service company operating in tier-2 cities aims to evaluate its performance to meet ambitious growth and passenger satisfaction targets for 2024. 
 Key metrics under review include trip volume, passenger satisfaction, repeat passenger rate, trip distribution, and the balance of new vs. repeat passengers. 
 The insights will guide operational strategies and improve service quality. The task has been assigned to a data analyst with support from the operations team.
 
